@@ -1,0 +1,10 @@
+int32 id
+string type
+bool availibility
+float32 xr
+float32 yr
+---
+int32 id
+bool availibility
+float32 xt
+float32 yt

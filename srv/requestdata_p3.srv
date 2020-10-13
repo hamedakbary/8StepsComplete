@@ -1,0 +1,6 @@
+string request_message
+---
+bool availibility
+int32 id
+float32 xr
+float32 yr
